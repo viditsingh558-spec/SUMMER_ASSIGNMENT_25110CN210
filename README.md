@@ -12,4 +12,4 @@
 - Better understanding of loops and conditions
 
 ## Github Repository Link
--https://github.com/viditsingh558-spec/SUMMER_ASSIGNMENT_25110CN210
+-  https://github.com/viditsingh558-spec/SUMMER_ASSIGNMENT_25110CN210
