@@ -1,15 +1,24 @@
 # Summer Vacation Assignment
 
-## About Me
-- Name: Vidit Singh
-- Branch: CSE
+## 👨‍💻 About Me
 
-## Initially I was able to solve the most of problems by myself. But there were few types of question that were new to me and took time to solve. And i was able to solve them too with a little bit guidance of AI.
+**Name:** Vidit Singh
+**Branch:** Computer Science Engineering (CSE)
 
-## What I Learned
-- Problem-solving skills
-- Debugging code
-- Better understanding of loops and conditions
+This repository contains my Summer Vacation Assignment completed in C++. Most of the problems were solved independently. A few problems introduced new concepts and required additional time to understand. For those, I used AI as a learning guide to better understand the logic and complete the solutions on my own.
 
-## Github Repository Link
--  https://github.com/viditsingh558-spec/SUMMER_ASSIGNMENT_25110CN210
+## 📚 What I Learned
+
+* Improved problem-solving skills
+* Debugging and fixing errors
+* Better understanding of loops and conditional statements
+* Writing structured and organized C++ programs
+* Strengthened programming logic
+
+## ✅ Assignment Status
+
+**Completed Successfully**
+
+## 🔗 GitHub Repository
+
+https://github.com/viditsingh558-spec/SUMMER_ASSIGNMENT_25110CN210
